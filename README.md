@@ -25,4 +25,8 @@ Demostration
   (1) Move into the data directory  
      cd data  
      open LinearRegression_CUBiasModel_VS_CUBias_AACBiasModel.ipynb
+      
+     or
+     
+     https://nbviewer.jupyter.org/github/betterliao/AACBias/blob/main/data/LinearRegression_CUBiasModel_VS_CUBias_AACBiasModel.ipynb
   
