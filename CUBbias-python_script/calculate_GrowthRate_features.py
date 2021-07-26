@@ -53,9 +53,9 @@ if __name__ == '__main__':
 	LenArgv = len(sys.argv)
 
 	for i in range(LenArgv):
-		if sys.argv[i] == '-ribo':
+		if sys.argv[i] == '-ribo_dir':
 			path_to_ribosome = sys.argv[i+1]
-		if sys.argv[i] == '-genome':
+		if sys.argv[i] == '-genome_dir':
 			path_to_genome = sys.argv[i+1]
 
 		if sys.argv[i] == '-ribo_suffix':
