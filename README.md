@@ -2,9 +2,8 @@
 
 This repository contains code for "Improves estimation of maximal microbial growth rate by additionally considering amino acid composition bias". 
 
-Scripts for calculating CUBias and AACBias features from genomic sequences; 
-multiple linear regression of those features to the originating species' Doubling Time, 
-and compared prediction model between CUBias and CUBias+AACBias.
+Scripts for calculating CUBias and AACBias features from genomic sequences. 
+multiple linear regression of those features to the originating species' Doubling Time,and compared prediction model between CUBias and CUBias+AACBias.
 
 Demostration
 1. calculate Amino Acid Composition Bias(AACBias);  
@@ -24,6 +23,6 @@ Demostration
                                               
 3. View the results of model(CUBias VS CUBias+AACBias) comparison in jupyter  
   (1) Move into the data directory  
-     cd data;  
+     cd data  
      open LinearRegression_CUBiasModel_VS_CUBias_AACBiasModel.ipynb  
   
