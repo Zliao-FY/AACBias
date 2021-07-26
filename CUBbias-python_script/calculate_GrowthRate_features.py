@@ -7,6 +7,7 @@ from AACB import cal_AA_Bias
 import numpy as np
 import os
 import re
+import sys
 
 
 def calculate_index(path_to_genome,path_to_ribosome,genome_suffix,ribosomal_suffix):
